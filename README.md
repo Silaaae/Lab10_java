@@ -1,7 +1,7 @@
 # Lab 10 — Démo Navigation Drawer et Fragments
 
 **Auteure : Nisrine Gorfti — EMSI**
-**Date : 2026-06-01**
+
 
 ## Description
 Application Android démontrant l'utilisation du Navigation Drawer avec plusieurs fragments.
@@ -36,3 +36,6 @@ app/src/main/
 implementation 'com.google.android.material:material:1.12.0'
 implementation 'androidx.drawerlayout:drawerlayout:1.2.0'
 ```
+<img width="252" height="492" alt="image" src="https://github.com/user-attachments/assets/88800cf6-4bb4-4fb2-9af4-0450ff68897a" />
+
+<img width="485" height="1024" alt="image" src="https://github.com/user-attachments/assets/130d69da-b8e0-4494-9519-1f470f36419f" />
